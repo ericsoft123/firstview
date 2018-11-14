@@ -1,0 +1,64 @@
+Structure of sytem and code(MVC)
+
+.Model
+
+Open firstview project folder
+->open "app" folder 
+->open "user.php" file and others model too
+
+
+.VIEW
+
+open firstview project folder
+
+->open "ressources" folder 
+->Open  "views" folder
+
+      on View Folder
+	      My Profile.blade.php page is the main page for This Apps where other page will be rendered
+		  
+		  inside auth folder
+		         
+				 There is register and login folder 
+				 
+				 
+		 inside template folder
+		 
+		 there is 5 files to be imported inside profile.blade.php
+		 
+		       *company_table.blade:table display html code
+			   *companydetailmodal.blade:display details of company
+		       *companyform.blade.php:company form modal
+			   *deletemodal.blade.php:delete modal popup to confirm delete company 
+			   *main.blade.php:where table will be rendered on view 
+		 
+		 
+		    There is menu folder  contain menu code
+			
+			There is also script folder  contain javascript code 
+			
+
+.CONTROLLER
+
+open firstview project folder
+->open "app" folder 
+->open "http" folder 
+->open "controller" folder 
+
+projectcontroller.php :80% all php code and function to control apps
+Registercontroller.php:code of signup and login
+
+.Route Folder
+
+open firstview project folder
+->open "routes" folder
+->open  "web.php" file
+
+
+
+
+
+		
+	
+  
+     

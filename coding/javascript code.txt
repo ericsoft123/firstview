@@ -1,0 +1,15 @@
+ Main javascript external file to This project is profile.js
+
+    open firstview project ->open "public" folder  ->open "js" folder ->open profile.js
+             
+
+
+other   javascript code (script.blade.php).
+
+open firstview project folder 
+->open  "resources" folder 
+->open "views" folder 
+->open "template" folder 
+->open "script" folder
+ ->open "script.blade.php" file
+  

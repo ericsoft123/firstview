@@ -1,0 +1,12 @@
+how to use
+
+1.create your Account
+2.login to your account
+3.upload your CSV
+4.load your CSV (then it will display few rows in html table) do not worry the way it display your csv ! just is to give 
+as idea how we will map csv field to the field we have in our datatabase table
+5.map table by click any field you want to map from csv file to datatabase table field
+6.Then click import
+7.after that file finish to be imported to datatabase table system will show us error or invalid field
+then we click continue to remove those invalid or error field
+8.then here you will be able to sort/group ,export preview,save file too 
